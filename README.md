@@ -1,6 +1,6 @@
 # Angular auto dependency mock
 
-A [Visual Studio Code](https://code.visualstudio.com/) [extension](https://marketplace.visualstudio.com/items?itemName=pschmitz.angular-auto-dependency-mock) that automatically generates most of the boilerplate code that a test file needs.
+A Visual Studio Code [extension](https://marketplace.visualstudio.com/items?itemName=pschmitz.angular-auto-dependency-mock) that automatically generates most of the boilerplate code that a test file needs.
 
 ## Features
 
